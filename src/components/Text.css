@@ -1,0 +1,36 @@
+.text {
+  font-family:"Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  margin: 0px;
+}
+
+.size-xs {
+font-size: 16px;
+}
+
+.size-s {
+font-size: 20px;
+}
+
+.size-m {
+font-size: 22px;
+}
+
+.size-l{
+font-size: 28px;
+}
+
+.size-xl{
+font-size: 40px;
+}
+
+.type-caption{
+color: #666
+}
+
+.bold{
+font-weight: bold;
+}
+
+.italic{
+  font-style: italic;
+}

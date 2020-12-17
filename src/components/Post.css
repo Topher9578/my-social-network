@@ -1,0 +1,18 @@
+.post {
+  padding: 48px;
+
+}
+.content {
+  padding-top:24px;
+  padding-bottom:24px;
+}
+
+.header {
+  flex-direction: row;
+  display: flex;
+  align-items: center;
+}
+
+.author {
+  padding-left:12px;
+}
