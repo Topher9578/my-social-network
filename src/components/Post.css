@@ -1,18 +1,19 @@
 .post {
   padding: 48px;
-
+  background-color: #FFFFFF;
 }
-.content {
+
+.post-content {
   padding-top:24px;
   padding-bottom:24px;
 }
 
-.header {
+.post-header {
   flex-direction: row;
   display: flex;
   align-items: center;
 }
 
-.author {
+.post-author {
   padding-left:12px;
 }

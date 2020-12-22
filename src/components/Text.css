@@ -3,34 +3,34 @@
   margin: 0px;
 }
 
-.size-xs {
+.text-size-xs {
 font-size: 16px;
 }
 
-.size-s {
+.text-size-s {
 font-size: 20px;
 }
 
-.size-m {
+.text-size-m {
 font-size: 22px;
 }
 
-.size-l{
+.text-size-l{
 font-size: 28px;
 }
 
-.size-xl{
+.text-size-xl{
 font-size: 40px;
 }
 
-.type-caption{
+.text-type-caption{
 color: #666
 }
 
-.bold{
+.text-bold{
 font-weight: bold;
 }
 
-.italic{
+.text-italic{
   font-style: italic;
 }
