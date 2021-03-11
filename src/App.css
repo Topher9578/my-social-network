@@ -1,8 +1,8 @@
 .app {
   background-color: #E0E0E0;
   justify-content: center;
-  display: flex;
   padding: 16px;
+  display: flex;
 }
 
 .app-content {
