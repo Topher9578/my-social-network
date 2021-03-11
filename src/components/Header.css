@@ -1,0 +1,20 @@
+.header {
+  background-color: white;
+  font-family:"Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  position: fixed;
+  width: 100%;
+  flex-direction: row;
+  justify-content: flex-end;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0px 40px 0px rgba(47, 63, 70, 0.51);
+}
+
+.header-author {
+  padding-left: 12px;
+  padding-right: 24px;
+}
+
+.header-text-size-s {
+  font-size: 20px;
+}
